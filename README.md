@@ -1,11 +1,8 @@
 
 <div align="center">
 
-# 👋 안녕하세요, 김현정(Hyunjung Kim)입니다.
 
 ### AI · RF Sensing · Wireless Communication
-
-RF 신호와 인공지능을 활용한 실내 센싱 연구를 수행하고 있습니다.
 
 </div>
 
